@@ -1,0 +1,14 @@
+{
+    "code": "jne",
+    "name": "Jalur Nugraha Ekakurir (JNE)",
+    "costs": [{
+                "service": "OKE",
+                "description": "Ongkos Kirim Ekonomis",
+                "cost": [{
+                    "value": 38000,
+                    "etd": "4-5",
+                    "note": ""
+                }]
+            }
+    ]
+}
